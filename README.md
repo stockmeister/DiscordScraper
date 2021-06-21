@@ -32,7 +32,7 @@ Only `token`, `target`, `from` are mandatory.
 ## Running the Bot
 * After you're done configuring the above, run the bot using:
 `python Main.py`
-* Your bot will not automatically copy any messages from the channels you selected, post them to the channels you want and expose them on the HTTP API.
+* Your bot will now automatically copy any messages from the channels you selected, post them to the channels you want and expose them on the HTTP API.
 
 ## HTTP API
 `/`
