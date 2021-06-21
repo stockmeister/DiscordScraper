@@ -10,13 +10,21 @@
 * Create a new file called `config.json` in the same folder
 * Copy the contents of `config.example.json` into `config.json`
 * Fill in the required information in the JSON config file:
+
 `token`: Discord API token, instructions to get it  @ https://discordhelp.net/discord-token.
+
 `target`: Target user or bot that you're gonna copy messages of. This must be the ID of the user/bot.
+
 `from`: Array of channel IDs that you'll be copying from.
+
 `to`: Array of channels IDs that you'll be copying to.
+
 `httpApi`: Determine whether you want to spawn a ReST HTTP API or not.
+
 `port`: Port that the HTTP API server will be listening to.
+
 `host`: IP that you want the HTTP API server to bind to.
+
 `limit`: Maximum number of messages that is allowed to be saved by the API.
 
 Only `token`, `target`, `from` are mandatory.
