@@ -46,8 +46,8 @@ The data returned from the feed will have an array of [Message3, Message2, Messa
 The HTTP API data format is:
 ```json
 { "data":[
-{"id": "<ID>", content: "<CONTENT>" },
-{"id": "<ID>", content: "<CONTENT>" },
+{"id": "<ID>", "content": "<CONTENT>" },
+{"id": "<ID>", "content": "<CONTENT>" },
 ...
 ] }
 ```
