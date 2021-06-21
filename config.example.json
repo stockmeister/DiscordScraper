@@ -1,0 +1,15 @@
+{
+    "token": "YOUR_TOKEN_HERE-https://discordhelp.net/discord-token",
+    "target": "TARGET_USER_ID_TO_COPY_FROM",
+    "from": [
+        "CHANNEL_ID1",
+        "CHANNEL_ID2",
+        "CHANNEL_ID3"
+    ],
+    "to": [
+        "CHANNEL_ID4"
+    ],
+    "httpApi": true,
+    "port": 3000,
+    "host": "0.0.0.0"
+}
