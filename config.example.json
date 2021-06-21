@@ -9,6 +9,7 @@
     "to": [
         "CHANNEL_ID4"
     ],
+    "limit": 100,
     "httpApi": true,
     "port": 3000,
     "host": "0.0.0.0"

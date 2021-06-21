@@ -12,7 +12,7 @@ FROM_CHANS = 'from'
 TO_CHANS = 'to'
 HOST = 'host'
 PORT = 'port'
-MSG_LIMIT = 'messageLimit'
+MSG_LIMIT = 'limit'
 HTTP_API = 'httpApi'
 
 config = {}
